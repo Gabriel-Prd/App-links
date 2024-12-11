@@ -1,9 +1,9 @@
 # App-links
 
 Um aplicativo simples para salvar, organizar e gerenciar links de maneira eficiente. Ideal para guardar referências, artigos, vídeos e outros recursos importantes.
-![Captura de Tela do Projeto](./images/Screenshot_1733948520.png)
-![Captura de Tela do Projeto](./images/Screenshot_1733948526.png)
-![Captura de Tela do Projeto](./images/Screenshot_1733948556.png)
+
+<img src="./images/Screenshot_1733948520.png" width="350" height="900"> <img src="./images/ScrScreenshot_1733950724.png" width="350" height="900"> 
+<img src="./images/Screenshot_1733950487.png" width="350" height="900"> 
 
 ---
 
@@ -42,7 +42,7 @@ Siga os passos abaixo para configurar o projeto:
    cd App-links
 3. Inicie o servidor de desenvolvimento:
    ```bash
-   mpx expo start
+   npx expo start
 4. Escaneie o QR code no terminal ou na página web gerada para executar o aplicativo no seu dispositivo ou em um emulador.
 
 ---
