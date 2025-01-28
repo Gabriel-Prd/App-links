@@ -2,8 +2,8 @@
 
 Um aplicativo simples para salvar, organizar e gerenciar links de maneira eficiente. Ideal para guardar referências, artigos, vídeos e outros recursos importantes.
 
-<img src="./images/Screenshot_1733948520.png" width="350" height="900"> <img src="./images/Screenshot_1733950724.png" width="350" height="900"> 
-<img src="./images/Screenshot_1733950487.png" width="350" height="900"> 
+<img src="./images/Screenshot_1733948520.png" width="200"> <img src="./images/Screenshot_1733950724.png" width="200"> 
+<img src="./images/Screenshot_1733950487.png" width="200"> 
 
 ---
 
